@@ -4,6 +4,8 @@
 
 ## 提交
 
+​	自己建立个分支
+
 ​	提交目录: ./abbreviated_name/yyyy-MM-dd/title_number.cpp
 
 ​	例如: ./sn/2020-8-18/P1032.cpp
